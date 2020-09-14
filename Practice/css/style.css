@@ -1,0 +1,114 @@
+.container{
+    border:5px solid black;
+}
+/*h2{
+    background: var(--purple);          color.html
+    color: var(--yellow);
+}*/
+.col-md-4{
+    background: pink;
+    color: green;
+}
+/*.row{
+    border:3px solid pink;
+}*/
+/*
+.col,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+    border:3px solid orange;
+}
+body{
+    background: gold;
+}*/
+.pink{
+    background: pink;
+}
+.white{
+    background: white;
+}
+.green{
+    background: green;
+}
+
+.violet{
+    background: violet;
+}
+
+.skyblue{
+    background: skyblue;
+}
+
+.yellow{
+    background: yellow;
+}
+.tomato{
+    background: tomato ;
+}
+.red{
+    background: red;
+}
+
+.blue{
+    background: blue;
+}
+
+.orange{
+    background: orange;
+}
+.purple{
+    background: purple;
+    font-size: 22px;
+}
+.grey{
+    background: grey;
+    font-size: 18px;
+}
+.silver{
+    background: silver;
+    font-size: 12px;
+}
+#header{
+    background : orange;
+    padding: 10px 0 10px 10px;
+}
+
+#menu{
+    background : pink;
+    padding: 3px 0;
+}
+
+#menu ul{
+    list-style: none;
+    margin: 0;
+}
+
+#menu ul li{
+    display: inline;
+}
+
+#content{
+    background : white;
+}
+
+#sidebar{
+    background : orchid;
+}
+
+#footer{
+    background :red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
